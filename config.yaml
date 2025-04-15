@@ -1,0 +1,3 @@
+experiment:
+  name: "wine_experiment"
+  run_name: "baseline_model"
