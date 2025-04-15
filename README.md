@@ -17,6 +17,7 @@ Este projeto é um exemplo simples de como integrar **MLflow** para rastreamento
 ---
 
 ## 🗂 Estrutura do Projeto
+```bash
 MLFlow_part1/ 
 │
 ├── README.md 
@@ -24,7 +25,7 @@ MLFlow_part1/
 ├── config.yaml 
 ├── train.py
 ├── train_optuna.py
-
+```
 ## ⚙️ Como usar
 
 ### 1. Clone o repositório
